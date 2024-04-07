@@ -1,0 +1,1 @@
+/usr/bin/gcc -g  -rdynamic CMakeFiles/lab2.dir/lex.yy.c.o CMakeFiles/lab2.dir/parser.tab.c.o CMakeFiles/lab2.dir/main.c.o  -o lab2 
