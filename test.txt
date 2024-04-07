@@ -1,0 +1,1 @@
+record name is hosp {H# CHAR(5),Hname CHAR(25),Hadress CHAR(30),rank CHAR(7)};record name is dep {};Record Name is Ch {C# CHAR(5),Cname CHAR(25),Qnt integer};

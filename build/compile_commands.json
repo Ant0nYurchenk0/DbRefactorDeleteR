@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/d/Prog/C++/Refactoring-Labs/Lab2_SaveR/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/lab2.dir/lex.yy.c.o   -c /mnt/d/Prog/C++/Refactoring-Labs/Lab2_SaveR/lex.yy.c",
+  "file": "/mnt/d/Prog/C++/Refactoring-Labs/Lab2_SaveR/lex.yy.c"
+},
+{
+  "directory": "/mnt/d/Prog/C++/Refactoring-Labs/Lab2_SaveR/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/lab2.dir/parser.tab.c.o   -c /mnt/d/Prog/C++/Refactoring-Labs/Lab2_SaveR/parser.tab.c",
+  "file": "/mnt/d/Prog/C++/Refactoring-Labs/Lab2_SaveR/parser.tab.c"
+},
+{
+  "directory": "/mnt/d/Prog/C++/Refactoring-Labs/Lab2_SaveR/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/lab2.dir/main.c.o   -c /mnt/d/Prog/C++/Refactoring-Labs/Lab2_SaveR/main.c",
+  "file": "/mnt/d/Prog/C++/Refactoring-Labs/Lab2_SaveR/main.c"
+}
+]
